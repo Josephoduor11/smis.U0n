@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+portal.db
+portal_backup.db
+.DS_Store
